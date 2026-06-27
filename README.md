@@ -2,6 +2,8 @@
 
 这是一个把视频主题、脚本、素材或参考视频拆解成可执行剪辑方案的工作流与 Codex Skill。
 
+GitHub 仓库 slug 使用 `cooper02-video-breakdown`；项目中文名保留为 `cooper02-视频拆解`。
+
 项目来源于本地 Obsidian 笔记：
 
 - `/Users/zhang/Documents/Obsidian Vault/技术文档/seedance/Gemini 视频剪辑一条龙 7 个提示词工作流.md`
